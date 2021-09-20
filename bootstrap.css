@@ -104,6 +104,10 @@ nav .col-4 div,
 }
 
 @media screen and  (max-width: 992px) {
+    .navbar-expand-lg .navbar-collapse {
+        margin-left: 0;
+    }
+    
     section-two h1 {
         font-size: 38px;
     }
